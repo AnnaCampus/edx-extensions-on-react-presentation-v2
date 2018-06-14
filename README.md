@@ -1,8 +1,8 @@
-# React based presentation on Open edX extension options based on Spectacle Boilerplate also avalable here[http://equable-cellar.surge.sh/#/0]
+# React based presentation on Open edX extension options based on Spectacle Boilerplate also avalable at [http://equable-cellar.surge.sh/#/0]
 
 ## Contents
 
-- [Intro] (#intro)
+- [Intro](#intro)
 - [Reference](#reference)
 - [Getting Started](#getting-started)
 - [Build & Deployment](#build-deployment)
